@@ -2,7 +2,7 @@
 <p align="center">
 
 ### 😎 **Sobre mim**  
-Olá, sou o **Junior**, desenvolvedor apaixonado por tecnologia e inovação. Com uma abordagem prática e curiosa, compartilho conteúdos e cursos que podem ajudar no seu aprendizado em diversas áreas. Explore meus projetos e junte-se à nossa comunidade!
+Olá, meu nome é **Marcos Augusto**, desenvolvedor Vibe Coding apaixonado por tecnologia e inovação. Com uma abordagem prática e curiosa, compartilho conteúdos e cursos que podem ajudar no seu aprendizado em diversas áreas. Explore meus projetos e divirta-se!
 
 <!--🐱CAT-->
 <p align="center">
